@@ -15,16 +15,20 @@ The database is stored in SQL format and can be accessed using SQL Server or any
 
 
 ## Key Insights and Results
-
+<center>
 ### Payment and Shipping Time
+</center>
+
 ![Dashboard1](https://github.com/leanhkienn/E-commerceDataAnalysis/assets/116093407/9e982539-639b-452a-a453-25de573e137d)
 
-
+<center>
 ### Sales Performance
+</center>
 ![Dashboard3](https://github.com/leanhkienn/E-commerceDataAnalysis/assets/116093407/ad1cb5b5-a76a-4b98-986d-07912febb03d)
 
-
+<center>
 ### Products Attribute
+</center>
 ![Dashboard22](https://github.com/leanhkienn/E-commerceDataAnalysis/assets/116093407/3585b80f-e35b-4ad6-9ce1-56d96893ff44)
 
 
