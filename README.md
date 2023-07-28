@@ -14,7 +14,20 @@ This repository contains an analysis of an e-commerce database using SQL and Pow
 The database is stored in SQL format and can be accessed using SQL Server or any compatible database management system. The CSV files provided for each table were imported into the database, ensuring that the data is structured and ready for analysis.
 
 
-## Key Insights
+## Key Insights and Results
+
+### Payment and Shipping Time
+![Dashboard1](https://github.com/leanhkienn/E-commerceDataAnalysis/assets/116093407/9e982539-639b-452a-a453-25de573e137d)
+
+
+### Sales Performance
+![Dashboard3](https://github.com/leanhkienn/E-commerceDataAnalysis/assets/116093407/ad1cb5b5-a76a-4b98-986d-07912febb03d)
+
+
+### Products Attribute
+![Dashboard22](https://github.com/leanhkienn/E-commerceDataAnalysis/assets/116093407/3585b80f-e35b-4ad6-9ce1-56d96893ff44)
+
+
 
 Through the analysis of the e-commerce database, several key insights were derived, including:
 
