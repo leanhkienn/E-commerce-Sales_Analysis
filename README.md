@@ -42,7 +42,6 @@ The SQL database was connected to Power BI to create interactive visualizations 
 
 
 # Recommendations
-<br>
 
 ### Sales Insights:
 Target Sao Paulo Market: As Sao Paulo shows significant sales performance, consider focusing on marketing efforts and promotions in this region to further capitalize on its potential.
