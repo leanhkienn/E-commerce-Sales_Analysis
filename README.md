@@ -1,4 +1,4 @@
-# E-Commerce Database Analysis
+# [SQL + POWER BI] E-Commerce from Brazil Database Analysis
 
 This repository contains an analysis of an e-commerce database using SQL and Power BI. The database consists of several tables, including `customer`, `order_items_dataset`, `order_payments`, `orders`, and `products`. The data represents various aspects of an e-commerce business, such as customer information, order details, product information, and payment records.
 
