@@ -17,10 +17,6 @@ The database is stored in SQL format and can be accessed using SQL Server or any
 
 Several SQL queries were performed on the database to extract meaningful insights and perform data analysis. The queries covered various aspects, such as calculating the average shipping cost and price per product category, checking for duplicate values, and retrieving data for visualization purposes.
 
-## Power BI Visualization
-
-The SQL database was connected to Power BI to create interactive visualizations and dashboards. Power BI offers a user-friendly interface to explore, analyze, and present the data in a visually appealing and informative manner. The visualizations provide an intuitive way to gain insights into the e-commerce data and make data-driven decisions.
-
 
 ## Key Insights and Results
   ### Payment and Shipping Time
