@@ -66,7 +66,9 @@ The SQL database was connected to Power BI to create interactive visualizations 
 ### Product Attributes and Market Focus:
 
 - High-End Products Opportunity: With Watches, Sports, and Beauty being the most expensive categories, consider targeting high-end consumers and promoting premium products.
+  
 - Weight Consideration: Given that Beds, Bath Table, Sports Leisure, and Furniture decorations are the heaviest items, evaluate logistics and shipping costs for these products to offer competitive pricing to customers.
+  
 - Geographic Expansion: Expanding the distribution of products in Europe and North America may tap into untapped markets, driving international growth.
 
 
