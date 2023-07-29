@@ -44,6 +44,7 @@ The SQL database was connected to Power BI to create interactive visualizations 
 # Recommendations
 
 ### Sales Insights:
+
 - Target Sao Paulo Market: As Sao Paulo shows significant sales performance, consider focusing on marketing efforts and promotions in this region to further capitalize on its potential.
 <br>
 - Expand Global Reach: With sales coming from 611 different cities worldwide, explore opportunities to expand into new international markets to drive global growth.
@@ -53,6 +54,7 @@ The SQL database was connected to Power BI to create interactive visualizations 
 <br>
 
 ### Payment and Shipping Optimization:
+
 - Streamline Shipping Process: The average shipping time of 24 days per order might be improved by optimizing the shipping process, such as choosing more efficient shipping partners or exploring fulfillment centers in strategic locations.
 <br>
 - Payment Preferences: Since credit card and boleto are popular payment options, ensure a seamless checkout experience for customers using these methods to boost conversion rates.
@@ -62,6 +64,7 @@ The SQL database was connected to Power BI to create interactive visualizations 
 <br>
 
 ### Product Attributes and Market Focus:
+
 - High-End Products Opportunity: With Watches, Sports, and Beauty being the most expensive categories, consider targeting high-end consumers and promoting premium products.
 <br>
 - Weight Consideration: Given that Beds, Bath Table, Sports Leisure, and Furniture decorations are the heaviest items, evaluate logistics and shipping costs for these products to offer competitive pricing to customers.
