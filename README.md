@@ -44,22 +44,28 @@ The SQL database was connected to Power BI to create interactive visualizations 
 # Recommendations
 
 ### Sales Insights:
-Target Sao Paulo Market: As Sao Paulo shows significant sales performance, consider focusing on marketing efforts and promotions in this region to further capitalize on its potential.
-Expand Global Reach: With sales coming from 611 different cities worldwide, explore opportunities to expand into new international markets to drive global growth.
-Optimize Sales Strategy: Analyze the sales data to identify peak seasons and trends, allowing for more targeted marketing campaigns and better inventory management.
+- Target Sao Paulo Market: As Sao Paulo shows significant sales performance, consider focusing on marketing efforts and promotions in this region to further capitalize on its potential.
+<br>
+- Expand Global Reach: With sales coming from 611 different cities worldwide, explore opportunities to expand into new international markets to drive global growth.
+- <br>
+- Optimize Sales Strategy: Analyze the sales data to identify peak seasons and trends, allowing for more targeted marketing campaigns and better inventory management.
 
 <br>
 
 ### Payment and Shipping Optimization:
-Streamline Shipping Process: The average shipping time of 24 days per order might be improved by optimizing the shipping process, such as choosing more efficient shipping partners or exploring fulfillment centers in strategic locations.
-Payment Preferences: Since credit card and boleto are popular payment options, ensure a seamless checkout experience for customers using these methods to boost conversion rates.
-Pricing and Shipping Strategy: As computers and appliances show higher average prices and shipping costs, evaluate pricing strategies and shipping fees for these categories to enhance competitiveness.
+- Streamline Shipping Process: The average shipping time of 24 days per order might be improved by optimizing the shipping process, such as choosing more efficient shipping partners or exploring fulfillment centers in strategic locations.
+<br>
+- Payment Preferences: Since credit card and boleto are popular payment options, ensure a seamless checkout experience for customers using these methods to boost conversion rates.
+<br>
+- Pricing and Shipping Strategy: As computers and appliances show higher average prices and shipping costs, evaluate pricing strategies and shipping fees for these categories to enhance competitiveness.
 
 <br>
 
 ### Product Attributes and Market Focus:
-High-End Products Opportunity: With Watches, Sports, and Beauty being the most expensive categories, consider targeting high-end consumers and promoting premium products.
-Weight Consideration: Given that Beds, Bath Table, Sports Leisure, and Furniture decorations are the heaviest items, evaluate logistics and shipping costs for these products to offer competitive pricing to customers.
-Geographic Expansion: Expanding the distribution of products in Europe and North America may tap into untapped markets, driving international growth.
+- High-End Products Opportunity: With Watches, Sports, and Beauty being the most expensive categories, consider targeting high-end consumers and promoting premium products.
+<br>
+- Weight Consideration: Given that Beds, Bath Table, Sports Leisure, and Furniture decorations are the heaviest items, evaluate logistics and shipping costs for these products to offer competitive pricing to customers.
+<br>
+- Geographic Expansion: Expanding the distribution of products in Europe and North America may tap into untapped markets, driving international growth.
 
 
