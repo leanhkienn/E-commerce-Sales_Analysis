@@ -7,7 +7,7 @@ This repository contains an analysis of an e-commerce database using SQL and Pow
 - [Database](#database)
 - [Queries](#queries)
 - [Power BI Visualization](#power-bi-visualization)
-- [Key Insights](#key-insights)
+- [Key Insights](### Key-Insights-and-Results)
 - [Recommendations](#Recommendations).
 
 ## Database
